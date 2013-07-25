@@ -1,0 +1,8 @@
+{
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "2.1.*@stable",
+        "slim/extras": "2.0.*@stable",
+        "twig/twig": "*@stable"
+    }
+}
